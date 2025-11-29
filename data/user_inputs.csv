@@ -1,2 +1,50 @@
-email,name,age,gender,occupation,sleep_hours,exercise_freq,diet_quality,stress_level,anxiety_level,depression_level,social_interaction,work_life_balance,coping_methods,past_mental_illness,current_medication,medication_details
-himanshu1@gmail.com,HIMANSHU JAMADAR,20,Male,Student,5,Never,Good,1,2,1,Weekly,Good,Not Applicable,No,No,None
+email,name,age,gender,occupation,sleep_hours,exercise_freq,diet_quality,stress_level,anxiety_level,depression_level,social_interaction,work_life_balance,coping_methods,past_mental_illness,current_medication,medication_details,feedback,timestamp
+amar@gmail.com,AMAR BORSE ,25.0,Male ♂️,Mechnical Enginner,7.0,1-2 days/week,Average🟠,5.0,4.0,3.0,Rarely,Poor 🔴,"['Therapy 🪷', 'Talking to friends/family 🫂', 'Hobbies 🎭']",No,No,,,2025-11-17 12:17:33
+st2@gmail.com,student2,25.0,Male ♂️,Engineer,4.0,,Poor🔴,4.0,3.0,6.0,Often,Poor🔴,['Other 🎪'],No,No,,,2025-11-17 12:22:33
+kd@gmail.com,Kunal Deore,22.0,Male ♂️,Developer,4.0,1-2 days/week,Average🟠,2.0,2.0,6.0,Sometimes,Fair 🟠,"['Running 🏃\u200d♂️', 'Sketching ✒️']",No,No,,,2025-11-19 08:07:13
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Student,9.0,Daily,Good🟢,8.0,3.0,1.0,Often,Good 🟢,"['Therapy 🪷', 'Running 🏃\u200d♂️', 'Talking to friends/family 🫂']",No,No,,,2025-11-19 08:10:48
+gaurav.sonawane@gmail.com,Gaurav Sonawane,24.0,Male ♂️,Analyst,5.0,1-2 days/week,Poor🔴,8.0,7.0,4.0,Rarely,Poor 🔴,['Other 🎪'],No,No,,,2025-11-19 08:13:28
+st2@gmail.com,student2,24.0,Male ♂️,Student,5.0,Daily,Good🟢,7.0,2.0,1.0,Sometimes,Fair 🟠,"['Talking to friends/family 🫂', 'Running 🏃\u200d♂️', 'Therapy 🪷']",No,No,,,2025-11-19 08:17:27
+harsh@gmail.com,harsh,23.0,Male ♂️,Businness Man,7.0,Daily,Good🟢,2.0,3.0,2.0,Often,Good 🟢,"['Exercise 🏋️\u200d♂️', 'Dancing 💃']",No,No,,,2025-11-19 08:20:12
+user0@example.com,Priya Deore 0,27.0,Male ♂️,Mechanical Engineer,6.8,1-2 days/week,Poor🔴,6.2,8.0,4.2,Rarely,Good 🟢,"['Other 🎪', 'Therapy 🪷']",No,No,,,2025-11-28 17:33:00
+user0@example.com,Kunal Iyer 120,28.0,Male ♂️,Doctor,9.0,1-2 days/week,,6.3,5.0,4.4,Often,Poor 🔴,"['Therapy 🪷', 'Talking to friends/family 🫂', 'Journaling 📚', 'Running 🏃\u200d♂️']",Yes,No,,,2025-11-24 12:05:00
+user0@example.com,Neha Iyer 240,16.0,Male ♂️,Mechanical Engineer,8.1,1-2 days/week,Average🟠,2.3,3.0,7.5,Often,Good 🟢,"['Exercise 🏋️\u200d♂️', 'Journaling 📚']",No,No,,,2025-11-06 02:35:00
+user0@example.com,user2,23.0,Male ♂️,,7.0,,Poor🔴,5.0,4.0,3.0,Rarely,Poor 🔴,[],No,No,,,2025-11-19 13:08:42
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,2.0,3.0,2.0,Sometimes,Fair 🟠,"['Talking to friends/family 🫂', 'Running 🏃\u200d♂️']",No,No,,,2025-11-19 16:38:43
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:39:43
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:23
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:41
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:44
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:46
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:48
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:40:51
+amar@gmail.com,AMAR BORSE ,22.0,Male ♂️,Designer ,5.0,1-2 days/week,Average🟠,5.0,6.0,4.0,Rarely,Poor 🔴,['Running 🏃\u200d♂️'],No,No,,,2025-11-19 16:41:15
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,,,2025-11-22 12:00:08
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:00:33
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:00:49
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:01:13
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:01:14
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:01:43
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:02:21
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:02:26
+kd2@gmail.com,kunal Deore,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,3.0,3.0,Often,Good 🟢,"['Sketching ✒️', 'Dancing 💃', 'Running 🏃\u200d♂️']",Yes,Yes,Eye Sight and  Digestion Issues,,2025-11-22 12:02:51
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:12:29
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:12:56
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:16:30
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:17:31
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:17:39
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:17:42
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:17:51
+st4@gmail.com,student4,24.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,3.0,1.0,3.0,Sometimes,Fair 🟠,"['Journaling 📚', 'Running 🏃\u200d♂️']",No,Yes,,,2025-11-22 12:19:33
+param@gmail.com,param ajudia,22.0,Male ♂️,Employee,5.0,1-2 days/week,Average🟠,4.0,1.0,2.0,Sometimes,Fair 🟠,"['Hobbies 🎭', 'Talking to friends/family 🫂', 'Sketching ✒️']",No,No,,,2025-11-26 15:45:30
+param@gmail.com,param ajudia,22.0,Male ♂️,Employee,5.0,1-2 days/week,Average🟠,4.0,1.0,2.0,Sometimes,Fair 🟠,"['Hobbies 🎭', 'Talking to friends/family 🫂', 'Sketching ✒️']",No,No,,,2025-11-26 15:49:26
+param@gmail.com,param ajudia,22.0,Male ♂️,Employee,5.0,1-2 days/week,Average🟠,4.0,1.0,2.0,Sometimes,Fair 🟠,"['Hobbies 🎭', 'Talking to friends/family 🫂', 'Sketching ✒️']",No,No,,,2025-11-26 15:49:38
+param@gmail.com,param ajudia,22.0,Male ♂️,Employee,5.0,1-2 days/week,Average🟠,4.0,1.0,2.0,Sometimes,Fair 🟠,"['Hobbies 🎭', 'Talking to friends/family 🫂', 'Sketching ✒️']",No,No,,,2025-11-26 15:49:53
+param@gmail.com,param ajudia,22.0,Male ♂️,Employee,5.0,1-2 days/week,Average🟠,4.0,1.0,2.0,Sometimes,Fair 🟠,"['Hobbies 🎭', 'Talking to friends/family 🫂', 'Sketching ✒️']",No,No,,,2025-11-26 15:49:56
+st4@gmail.com,student4,23.0,Male ♂️,Student,5.0,1-2 days/week,Average🟠,2.0,3.0,2.0,Sometimes,Good 🟢,"['Journaling 📚', 'Running 🏃\u200d♂️', 'Meditation 🧘\u200d♂️']",No,No,,,2025-11-27 16:20:47
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,,,2025-11-29 11:30:18
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,eye sight medications,,2025-11-29 11:30:33
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,eye sight medications,,2025-11-29 11:36:23
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,eye sight medications,,2025-11-29 11:36:35
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,eye sight medications,,2025-11-29 11:36:37
+st4@gmail.com,student4,23.0,Male ♂️,,5.0,None,Poor🔴,5.0,2.0,3.0,Sometimes,Poor 🔴,"['Meditation 🧘\u200d♂️', 'Hobbies 🎭']",Yes,Yes,eye sight medications,,2025-11-29 11:36:52

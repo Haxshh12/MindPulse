@@ -1,8 +1,7 @@
-name,email,phone
-Dr. Himanshu Jamadar,himanshu18@gmail.com,+91 98765 43210
-Dr. Prachi Sajwani,prachi.sajwani@example.com,+91 99887 66554
-Dr. Malhar, malhar@gmail.com,+91 74939 73223
-Dr.Ananya,ananya@gmail.com,+91 98765 43210
-Dr.Preksha,preksha@gmail.com,+91 99887 66554
-Dr. Kunal,kunalkd@gmail.com,+91 98765 43210
-Dr. Amar,amar@gmail.com,+91 98765 43210
+name,email,phone,specialization,specialty,booking_url
+Kabir Nair,nairkabir.psych@gmail.com,99876 78756,,Sport Psychologist,www.kabirNair.sport.psych.in
+Prachi Sajwani,prachisajwani77@gmail.com,96784 97656,,Clinical Psychologist & Relationship Psychologist,www.twohomesmind.in
+Himanshu Jamadar,himanshu.psych@gmail.com,98765 67464,, Sports Psychologist,www.google.com
+Sanjay Shinde,sanjayshinde23@gmail.com,87633 47483,,Counsellor,www.openmind.com
+Harsh Jethwa,harsh.jethwa77@gmail.com,77777 88888,,"Clinical Psychologist, Sports Psychologist, Counsellor",www.the7minded.in
+Mr.Kalpesh jadhav,kalpesh@gmail.com,09876 84567,,Mental Health counsellor,

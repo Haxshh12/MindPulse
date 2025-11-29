@@ -1,1 +1,8 @@
 scikit-learn
+streamlit
+matplotlib
+seaborn 
+numpy
+pandas
+plotly
+xlsxwriter

@@ -1,4 +1,15 @@
 email,password,role,name
-himanshu@gmail.com,him@00,user,HIMANSHU JAMADAR
-himanshu1@gmail.com,him@000,user,HIMANSHU JAMADAR
-kunal.admin@gmail.com,kunal@999,admin,KUNAL DEORE
+gaurav.sonawane@gmail.com,ggg@000,user,Gaurav Sonawane
+harsh.admin@gmail.com,hhh@777,admin,Harsh Jethwa
+harsh@gmail.com,hhh@777,user,harsh
+amar@gmail.com,aaa@999,user,AMAR BORSE 
+suraj@gmail.com,sss@000,user,Suraj Mali 
+raj@gmail.com,rrr@000,user,Raj Shamani
+kd@gmail.com,kkk@000,user,Kunal Deore
+st@gmail.com,sss@000,user,Student1
+st2@gmail.com,sss@222,user,student2
+st3@gmail.com,sss@333,user,Student3
+st4@gmail.com,sss@444,user,student4
+user0@example.com,user@222,user,user2
+kd2@gmail.com,kd@000,user,kunal Deore
+param@gmail.com,ppp@000,user,param ajudia
